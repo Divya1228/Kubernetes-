@@ -1,4 +1,3 @@
-
 #!/bin/bash
 kubeconfig_path=''
 function unkown_option() {
